@@ -2,6 +2,8 @@
 ## Overview
 This project includes Lambda functions and configurations for processing AWS services. 
 
+Originally, the file was a .json file, so I used pandas to convert that to .csv to streamline the Lambda process.
+
 Lambda function listens for PUT or GET object and executes and places updated object in secondary folder within the bucket.
 
 ## Requirements
