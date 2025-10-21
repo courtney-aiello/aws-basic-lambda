@@ -6,7 +6,6 @@ Originally, the file was a .json file, so I used pandas to convert that to .csv 
 
 Lambda function listens for PUT or GET events and executes and places updated object in secondary folder within the bucket.
 
-#Built with some help from ChatGPT for logic and syntax assistance. 
 
 ## Requirements
 - AWS CLI
